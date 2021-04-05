@@ -1,2 +1,4 @@
-# ultimate-cs-notebook
-The Ultimate CS Notebook
+# The Ultimate Computer Science Notebook
+
+An accumulation of notes for everything I have learned and come across. 
+
