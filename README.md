@@ -9,4 +9,4 @@ Table of Contents
 - [Data Science](./data-science)
 
 ## Organization
-Use section header "Scribbles - ..." for temporary notes jotted down when doing on projects, work, etc. These should be re-organized at a later and more appropriate time.
+Use section header "Scribbles - ..." for notes temporarily jotted down when doing projects, work, etc. These should be re-organized at a later and more appropriate time.
