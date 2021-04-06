@@ -6,3 +6,4 @@ Table of Contents
 ---
 
 - [Web Development](./web-development)
+- [Data Science](./data-science)
